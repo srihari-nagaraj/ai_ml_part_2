@@ -15,3 +15,6 @@ Analysis of Loyalty of customers for online shopping, Using OnlineRetail dataset
 
 Ref-notebook: https://github.com/srihari-nagaraj/ai_ml_part_2/blob/main/Online_retail_customer_analysis.ipynb
 Dataset : https://github.com/srihari-nagaraj/ai_ml_part_2/blob/main/OnlineRetail_dataset.zip
+
+### Referenece:
+https://scikit-learn.org/stable/index.html
