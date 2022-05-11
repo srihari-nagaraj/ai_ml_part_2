@@ -18,5 +18,7 @@ Dataset : https://github.com/srihari-nagaraj/ai_ml_part_2/blob/main/OnlineRetail
 
 ppt: https://docs.google.com/presentation/d/1lrhpS-KZrs_-XSmYizJ_HHTXMvXmwnmWKVkuTo7y90c/edit?usp=sharing
 
+![clustering image](https://github.com/srihari-nagaraj/ai_ml_part_2/blob/main/clustering.png)
+
 ### Referenece:
 https://scikit-learn.org/stable/index.html
